@@ -1,1 +1,2 @@
 Here the code are for the first two chapters 1 and 2 of the course Advance mechanics of solids as well as three live script files for chapter 11 are also provided for using them efficently once go through the chapter and then start playing with the codes they were very useful and saved a lot of time from tedious calculations again and again. Hope you use them efiiciently.
+If you face any issues feel free to contact on guptahritik09@gmail.com
